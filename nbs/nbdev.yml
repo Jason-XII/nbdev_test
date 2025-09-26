@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://Jason-XII.github.io/nbdev_test"
+  description: "A repo."
+  repo-branch: main
+  repo-url: "https://github.com/Jason-XII/nbdev_test"
